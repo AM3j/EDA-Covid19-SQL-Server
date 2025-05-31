@@ -1,4 +1,4 @@
-# EDA-Covid19-SQL-Server
+# COVID-19 Data Analysis
 
 # Description
 This SQL script performs exploratory data analysis (EDA) on COVID-19 datasets (CovidDeaths and CovidVaccinations), calculating key metrics like infection rates, vaccination coverage, and mortality trends.
